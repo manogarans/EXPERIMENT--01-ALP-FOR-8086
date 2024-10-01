@@ -119,6 +119,7 @@ ret
 
 
 ## Division alp 
+```
 org 100h
 
 MOV AX,04H;
@@ -126,7 +127,7 @@ MOV BX,02H;
 ADD AX,BX;
 MOV [700H],AX;
 ret
-
+```
 
 ## Output  
 ![Screenshot 2024-10-01 093606](https://github.com/user-attachments/assets/096184c6-7a33-43ac-9bd1-bc63c8a19159)
