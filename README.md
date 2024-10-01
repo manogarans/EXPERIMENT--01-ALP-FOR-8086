@@ -1,10 +1,7 @@
 # EXPERIMENT--01-ALP-FOR-8086
-Name :MANOGARAN S
-Roll no : 212223240081
-Date of experiment : 
-
-
-
+### Name :MANOGARAN S
+### Roll no : 212223240081
+### Date of experiment : 13.08.2024
 
 
 ## Aim: To Write and execute ALP on fundamental arithmetic and logical operations
