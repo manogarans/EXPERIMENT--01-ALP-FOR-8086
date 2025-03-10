@@ -94,7 +94,7 @@ org 100h
 
 MOV AX,06H;
 MOV BX,03H;
-ADD AX,BX;
+SUB AX,BX;
 MOV [600H],AX;
 ret
 ```
@@ -108,7 +108,7 @@ org 100h
 
 MOV AX,06H;
 MOV BX,01H;
-ADD AX,BX;
+MUL AX,BX;
 MOV [800H],AX;
 ret
 ```
@@ -123,7 +123,7 @@ org 100h
 
 MOV AX,04H;
 MOV BX,02H;
-ADD AX,BX;
+DIV AX,BX;
 MOV [700H],AX;
 ret
 ```
